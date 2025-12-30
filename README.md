@@ -27,9 +27,11 @@
 
 1. Haz clic en el siguiente enlace:  
    🔗[Abrir Notebook en Google Colab](https://colab.research.google.com/github/geraldgra/Challenge_Alura_TelecomX/blob/main/ChallengeTelecomX_LATAM_Alura.ipynb)
-   🔗Cargar al colab el archivo Json con los datos.
+   
+2. El notebook se abrirá directamente en tu navegador
 
-3. El notebook se abrirá directamente en tu navegador
+3. Cargar al colab el archivo Json con los datos.
+   🔗[Datos](https://raw.githubusercontent.com/geraldgra/Challenge_Alura_TelecomX/refs/heads/main/TelecomX_Data.json)
 
 4. Haz clic en **"Ejecutar todo"** en el menú `Runtime > Run all`
 
