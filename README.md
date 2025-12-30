@@ -26,13 +26,14 @@
 ### Opción Google Colab (Recomendado - No requiere instalación)
 
 1. Haz clic en el siguiente enlace:  
-   🔗 [📊 Abrir Notebook en Google Colab]()
+   🔗[Abrir Notebook en Google Colab](https://colab.research.google.com/github/geraldgra/Challenge_Alura_TelecomX/blob/main/ChallengeTelecomX_LATAM_Alura.ipynb)
+   🔗Cargar al colab el archivo Json con los datos.
 
-2. El notebook se abrirá directamente en tu navegador
+3. El notebook se abrirá directamente en tu navegador
 
-3. Haz clic en **"Ejecutar todo"** en el menú `Runtime > Run all`
+4. Haz clic en **"Ejecutar todo"** en el menú `Runtime > Run all`
 
-4. Todos los gráficos y análisis se generarán automáticamente
+5. Todos los gráficos y análisis se generarán automáticamente
 
 **Ventajas:**
 - No necesitas instalar nada en tu computadora
